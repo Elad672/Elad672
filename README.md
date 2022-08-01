@@ -345,7 +345,7 @@ MainSection:NewTextBox("TextboxText", "TextboxInfo", function(txt)
 end)
 
 -- COOL
-local Cool = Window:NewTab("Cool")
+local Animation = Window:NewTab("Cool")
 local CoolSection = Cool:NewSection("the animation is Fe")
 
 
