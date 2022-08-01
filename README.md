@@ -1,7 +1,7 @@
   
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib(BedWars Hub V1 Made By Elad", "Ocean")
+local Window = Library.CreateLib("BedWars Hub V1 Made By Elad", "Ocean")
 
 
 -- MAIN
@@ -438,7 +438,6 @@ MainSection:NewButton("jn hh gaming hubv10", "", function()
 end)
 
 -- Credits 
-local Credits = Window:NewTab(Credits")
+local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("Credit To discord Elad#4795")
 
-local CreditsSection = Credits:NewSection("YouTube: https://youtube.com/channel/UCq2zLbmIHif29RNTDACj-Cw
