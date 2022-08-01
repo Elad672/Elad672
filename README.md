@@ -440,4 +440,3 @@ end)
 -- Credits 
 local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("Credit To discord Elad#4795")
-
